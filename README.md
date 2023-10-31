@@ -7,7 +7,8 @@ Bot para WhatsApp Usando ChatGPT
 ````
 npm init
 npm install venom-bot
-npm install chatgpt
+//npm install chatgpt
+npm install openai@^4.0.0
 npm install dotenv
 ````
 
