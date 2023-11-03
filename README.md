@@ -12,12 +12,6 @@ npm install openai@^4.0.0
 npm install dotenv
 ````
 
-#### package.json
-
-````javascript
-"main": "index.mjs", <- mudar o arquivo index.js para index.mjs
-"type": "module",
-````
 
 #### start
 ````
